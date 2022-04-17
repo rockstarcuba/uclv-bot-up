@@ -4,13 +4,13 @@ API_HASH = '0c780f6db3124fafbdc3dcde437e6f21'
 
 
 # DATOS DEL MOODLE
-USUARIO = 'usuario'
-PASSWORD = 'contraseña'
-USUARIO_ID = 1487
-ZIP_MB = 399
+USUARIO = 'diesther'
+PASSWORD = 'dia5872'
+USUARIO_ID = 13337
+ZIP_MB = 200
 MOODLE_URL = 'moodle.uclv.edu.cu'
 OWNER = [1180073584]
 
 # CUENTA DE MEGA
-GMAIL_MEGA = 'gmail@gmail.com'
-PASS_MEGA = 'contraseña*'
+GMAIL_MEGA = 'diegoalberto071129@gmail.com'
+PASS_MEGA = 'Rockstar07*'
